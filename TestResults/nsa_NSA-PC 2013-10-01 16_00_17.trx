@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="636e6761-733b-4e8c-ae54-66b3c50175da" name="nsa@NSA-PC 2013-10-01 16:00:17" runUser="COMPUTERCENTER\nsa" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8e8251e7-67bd-4273-b65a-523069f3da09">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="nsa_NSA-PC 2013-10-01 16_00_17">
+      <DeploymentItem filename="C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.DLL\bin\Debug\GetThePageRank.DLL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-01T16:00:17.4455706+02:00" queuing="2013-10-01T16:00:19.0375706+02:00" start="2013-10-01T16:00:19.1175706+02:00" finish="2013-10-01T16:00:35.9035706+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NSA-PC" outcome="Error" timestamp="2013-10-01T16:00:35.9025706+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestURL" storage="c:\users\nsa\documents\visual studio 2010\projects\getthepagerank\getthepagerank.test\bin\debug\getthepagerank.test.dll" id="200e4d8a-c1b4-e53b-7fa3-4695e038e8f8">
+      <Execution id="1a790d17-6ba6-425b-803c-b2fe00404ffb" />
+      <TestMethod codeBase="C:/Users/NSA/documents/visual studio 2010/Projects/GetThePageRank/GetThePageRank.Test/bin/Debug/GetThePageRank.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GetThePageRank.Test.UnitTest1, GetThePageRank.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestURL" />
+    </UnitTest>
+    <UnitTest name="Test" storage="c:\users\nsa\documents\visual studio 2010\projects\getthepagerank\getthepagerank.test\bin\debug\getthepagerank.test.dll" id="8b0895c3-b2f6-89ab-d6fc-c786e24fb123">
+      <Execution id="fdc86582-263f-448f-868e-aecb7d4bc341" />
+      <TestMethod codeBase="C:/Users/NSA/documents/visual studio 2010/Projects/GetThePageRank/GetThePageRank.Test/bin/Debug/GetThePageRank.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GetThePageRank.Test.UnitTest1, GetThePageRank.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8b0895c3-b2f6-89ab-d6fc-c786e24fb123" executionId="fdc86582-263f-448f-868e-aecb7d4bc341" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="200e4d8a-c1b4-e53b-7fa3-4695e038e8f8" executionId="1a790d17-6ba6-425b-803c-b2fe00404ffb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fdc86582-263f-448f-868e-aecb7d4bc341" testId="8b0895c3-b2f6-89ab-d6fc-c786e24fb123" testName="Test" computerName="NSA-PC" duration="00:00:16.7200000" startTime="2013-10-01T16:00:19.1825706+02:00" endTime="2013-10-01T16:00:35.9025706+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdc86582-263f-448f-868e-aecb7d4bc341">
+    </UnitTestResult>
+    <UnitTestResult executionId="1a790d17-6ba6-425b-803c-b2fe00404ffb" testId="200e4d8a-c1b4-e53b-7fa3-4695e038e8f8" testName="TestURL" computerName="NSA-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a790d17-6ba6-425b-803c-b2fe00404ffb">
+    </UnitTestResult>
+  </Results>
+</TestRun>

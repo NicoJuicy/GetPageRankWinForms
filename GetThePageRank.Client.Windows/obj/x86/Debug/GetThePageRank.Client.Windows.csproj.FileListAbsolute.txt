@@ -1,0 +1,12 @@
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\bin\Debug\GetThePageRank.Client.Windows.exe
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\bin\Debug\GetThePageRank.Client.Windows.pdb
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\bin\Debug\GetThePageRank.DLL.dll
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\bin\Debug\GetThePageRank.DLL.pdb
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.csprojResolveAssemblyReference.cache
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.Properties.Resources.resources
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.csproj.GenerateResource.Cache
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.exe
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.pdb
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.PageRankSingle.resources
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.Main.resources
+C:\Users\NSA\documents\visual studio 2010\Projects\GetThePageRank\GetThePageRank.Client.Windows\obj\x86\Debug\GetThePageRank.Client.Windows.PageRankBatch.resources
